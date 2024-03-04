@@ -21,7 +21,7 @@ CustomKit is a utility program designed for changing CS2 (Counter-Strike 2) musi
 
 ## Tutorial for Users
 
-1. Download a music kit from someone on the forum, create your own, or use the one provided from Brighter Lights.
+1. Download a music kit from someone on the forum, create your own, or use the one provided from Under Bright Lights.
 2. Select it in the CMD form when prompted.
 3. Boot up CS2.
 4. Enjoy!
