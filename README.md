@@ -55,7 +55,7 @@ Feel free to contribute to CustomKit by providing bug reports, feature suggestio
 
 ## Disclaimer
 
-CustomKit is a third-party utility and is not affiliated with Valve Corporation or Counter-Strike: Source. Use it at your own risk, and always comply with the terms of service of the game.
+CustomKit is a third-party utility and is not affiliated with Valve Corporation or Counter-Strike. Use it at your own risk, and always comply with the terms of service of the game.
 
 ## Acknowledgments
 
